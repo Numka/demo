@@ -11,5 +11,16 @@
   "profile": {
     "name": "typicode"
   },
-  "quotes": ["asd","test","test1"]
+  "quotes": [
+    {quote: "Love For All, Hatred For None.", author: "Khalifatul Masih III"},
+    {quote: "Change the world by being yourself.", author: "Amy Poehler"},
+    {quote: "Everything you can imagine is real.", author: "Pablo Picasso"},
+    {quote: "Whatever you do, do it well.", author: "Walt Disney"},
+    {quote: "Tough times never last but tough people do.", author: "Robert H. Schiuller"},
+    {quote: "One day the people that don’t even believe in you will tell everyone how they met you.", author: "Johnny Depp"},
+    {quote: "Hate comes from intimidation, love comes from appreciation.", author: "Tyga"},
+    {quote: "I don’t need it to be easy, I need it to be worth it.", author: "Lil Wayne"},
+    {quote: "Never let your emotions overpower your intelligence.", author: "Drake"},
+    {quote: "There is no substitute for hard work.", author: "Thomas Edison"}
+  ]
 }
